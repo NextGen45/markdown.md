@@ -9,8 +9,9 @@
 * *completed*
 
 
-# what I learned
+# what I learned 
+* how to do headings
+* how to do links
+* how to make a tag
+* how repsitory works 
 
-I learned how to use respostory and in the 
-respostory i learned how to make words in bold,
-Italics etc.. in code 
