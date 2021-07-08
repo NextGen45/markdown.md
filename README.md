@@ -22,3 +22,11 @@ with note taking you can use diffrent
 * Making list
 
 
+### How to keep a Growth mindset 
+
+* Have a open mind
+* don't be scared to fail
+* don't give up when things get hard
+
+
+
