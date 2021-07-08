@@ -1,6 +1,6 @@
 # markdown.md
 
-[Tommy](https://github.com/NextGen45)
+[My profile](https://github.com/NextGen45)
 
 
 #  git hub 
