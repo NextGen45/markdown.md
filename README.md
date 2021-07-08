@@ -30,7 +30,7 @@ with note taking you can use diffrent
 
 
 
-markdown examples 
+### Markdown examples 
 * # heading 1
 * **bold**
 * *Italic*
