@@ -30,3 +30,19 @@ with note taking you can use diffrent
 
 
 
+markdown examples 
+* # heading 1
+* **bold**
+* *Italic*
+*  <Quoted text
+*  List
+	   *
+	   *
+	   
+	   
+# Detailed info on markdown
+	
+[click me](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
+
+
+
